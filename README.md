@@ -1,7 +1,7 @@
-##Data Modeling 
+Data Modeling 
 Entity Relationship Diagram is included or table schemas provided for all tables (10 points)
 
-##Data Engineering 
+Data Engineering 
 All required columns are defined for each table (10 points)
 Columns are set to the correct data type (10 points)
 Primary Keys set for each table (10 points)
@@ -10,7 +10,7 @@ Tables are correctly related using Foreign Keys (10 points)
 Correctly uses NOT NULL condition on necessary columns (10 points)
 Accurately defines value length for columns (10 points)
 
-##Data Analysis 
+Data Analysis 
 List the employee number, last name, first name, sex, and salary of each employee (2 points)
 List the first name, last name, and hire date for the employees who were hired in 1986 (2 points)
 List the manager of each department along with their department number, department name, employee number, last name, and first name (2 points)
